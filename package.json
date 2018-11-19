@@ -1,0 +1,30 @@
+{
+  "name": "@nodemate/sphero",
+  "version": "1.0.0",
+  "description": "Control Sphero Robot using NodeMate",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NodeMate/sphero.git"
+  },
+  "keywords": [
+    "NodeMade",
+    "Sphero",
+    "'Lightning",
+    "McQueen'",
+    "R2D2",
+    "BB8",
+    "BB-9E",
+    "Ollie",
+    "BLE"
+  ],
+  "author": "Peter Gammelgaard Poulsen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NodeMate/sphero/issues"
+  },
+  "homepage": "https://github.com/NodeMate/sphero#readme"
+}
