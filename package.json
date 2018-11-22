@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/NodeMate/sphero/issues"
   },
-  "homepage": "https://github.com/NodeMate/sphero#readme"
+  "homepage": "https://github.com/NodeMate/sphero#readme",
+  "dependencies": {
+    "@nodemate/noble": "^1.0.0"
+  }
 }
