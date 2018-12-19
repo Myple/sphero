@@ -28,6 +28,6 @@
   },
   "homepage": "https://github.com/NodeMate/sphero#readme",
   "dependencies": {
-    "@nodemate/noble": "^1.0.0"
+    "noble": "^1.9.1"
   }
 }
